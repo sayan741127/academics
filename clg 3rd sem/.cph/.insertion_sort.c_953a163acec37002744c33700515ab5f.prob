@@ -1,0 +1,1 @@
+{"name":"Local: insertion_sort","url":"/Users/sayanpaul/Desktop/cp/clg 3rd sem/insertion_sort.c","tests":[{"id":1663318183606,"input":"6\n3 2 4 1 5 7","output":"1 2 3 4 5 7 \n1 2 3 4 5 7 \n1 2 3 4 5 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sayanpaul/Desktop/cp/clg 3rd sem/insertion_sort.c","group":"local","local":true}
